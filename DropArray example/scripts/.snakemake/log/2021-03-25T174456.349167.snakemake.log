@@ -1,0 +1,3 @@
+WorkflowError in line 23 of /root/analysis/scripts/Snakefile:
+Config file configs/20210309/template_config.yml not found.
+  File "/root/analysis/scripts/Snakefile", line 23, in <module>

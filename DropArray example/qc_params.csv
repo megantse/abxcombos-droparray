@@ -1,0 +1,6 @@
+param,val
+Area_lowerbound,300
+Area_upperbound,700
+Barcode_distance,0.05
+OUTLIER,0
+POOL_NUM,6

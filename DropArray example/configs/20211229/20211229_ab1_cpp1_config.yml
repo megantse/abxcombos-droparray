@@ -1,0 +1,48 @@
+barcodes:
+  cluster:
+    eps: 0.03
+    min_samples: 2
+    offset:
+    - 0
+    - 0
+    - 0
+    points_to_cluster: 2000
+  path: ../../Notes-crl.xlsx
+image:
+  1to1_bkg: background
+  base_path: data/raw/20211229/20211229_ab1_cpp1
+  base_path2: data/raw/20211229/20211229_background/
+  bugs: 3
+  dyes:
+  - 0
+  - 1
+  - 2
+  names:
+    premerge: 20211229_ab1_cpp1_premerge
+    t0: 20211229_ab1_cpp1_tfinal
+  overlap: 0.1
+  pixel_size: 4.25
+  rescale:
+  - 1.0
+  - 1.1
+  - 1.1
+  - 1
+  rescale_text:
+  - '16475.00'
+  - '15235.00'
+  - '15607.00'
+  - Reporter
+  - '6000'
+  size: 2960
+  well_start_image:
+  - 1
+  - 2
+  well_start_xy:
+  - 540
+  - 140
+well_mask:
+  filename: null
+  pixel_size: 8.33625
+  well_start_xy:
+  - 850
+  - 522
