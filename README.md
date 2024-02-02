@@ -1,5 +1,8 @@
 How to analyze DropArray screening data
 
+Packages:
+- listed in snakemake.yml file
+
 
 Example below is using files copied from a storage unit called bucket and running this analysis using a virtual machine.
 
