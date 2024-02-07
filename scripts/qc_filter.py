@@ -1,6 +1,6 @@
 '''
 Script: qc_filter.py
-Last update: 2021 March, mzhu
+Last update: 2024 Feb, 2024
 
 Description: QC FILTERING
     1. filter on droplet area size

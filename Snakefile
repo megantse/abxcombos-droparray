@@ -29,15 +29,6 @@ rule all:
 	shell:
 		'bash scripts/vm_transfer_end.sh {params.day}'
 
-# rule vm_transfer_start:
-# 	params:
-# 		day=DAY, # 0
-# 		chips=CHIPS # 1
-# 	output:
-# 		'configs/'+DAY+'/template_config.yml'
-# 	script:
-# 		"scripts/vm_transfer_start.py {day} {chips}"
-
 # rule bg_avg:
 # # change to output nd2 files in format compatible with rest of pipeline
 # 	input:
@@ -284,11 +275,3 @@ rule stats:
 		'figures/{DAY}/{chip}_compiled_all_figures.pdf' # 2
 	script:
 		"scripts/stats.py"
-
-# rule vm_transfer_end:
-# 	input:
-# 		expand('figures/{{DAY}}/{chip}_compiled_all_figures.pdf',chip=CHIPS) # 0
-# 	params:
-# 		day=DAY, # 0
-# 	shell:
-# 		'bash scripts/vm_transfer_end.sh {params.day}'

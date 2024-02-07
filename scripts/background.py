@@ -1,6 +1,6 @@
 '''
 Script: background.py
-Last update: 2021 March, mzhu
+Last update: 2024 Feb, mtse
 
 Description: BACKGROUND IMAGE AVERAGING
     - Averages across multiple images (works for single images or stacks)

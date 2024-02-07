@@ -1,6 +1,6 @@
 '''
 Script: stats.py
-Last update: 2021 March, mzhu
+Last update: 2024 Feb, mtse
 
 Description: STATS
     PDF 1 - # droplets and microwells, cluster counts,

@@ -1,3 +1,8 @@
+###
+# kChip script to have a phase contrast-based readout 
+# Updated 20240207
+###
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt

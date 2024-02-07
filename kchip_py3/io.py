@@ -1,3 +1,8 @@
+###
+# kChip script to read in inputs/outputs, including image names, images, and barcodes
+# Updated 20240207
+###
+
 # IO utils
 
 from os import listdir, path

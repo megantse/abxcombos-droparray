@@ -1,11 +1,11 @@
 '''
 Script: find_drops.py
-Last update: 2021 March, mzhu
+Last update: 2024 Feb, mtse
 
 Description: DETECTS DROPLETS
 Input:
     1. configs/{DAY}/{chip}_config.yml
-    2. data/raw/{DAY}/{DAY}_background/background_image.tif ** INCORRECT **
+    2. data/raw/{DAY}/{DAY}_background/background_X_Y.tif
 Output:
     1. data/interim/{DAY}/{chip}_droplets_a.csv # droplets found (unprocessed)
     2. data/interim/{DAY}/{chip}_droplets_b.csv # overlap removed, assigned to wells / hashed

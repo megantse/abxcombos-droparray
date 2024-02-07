@@ -1,3 +1,8 @@
+###
+# kChip script using other python scripts to detect droplets, identify barcode clusters, map pre-merge to post-merge wells, and get readouts across timepoints as needed.
+# Updated 20240207
+###
+
 import pandas as pd
 import numpy as np
 import skimage.io as io

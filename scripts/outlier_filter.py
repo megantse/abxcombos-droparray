@@ -1,6 +1,6 @@
 '''
 Script: outlier_filter.py
-Last update: 2021 March, mzhu
+Last update: 2024 Feb, mtse
 
 Description: OUTLIER FILTERING for every combo type
 Input:

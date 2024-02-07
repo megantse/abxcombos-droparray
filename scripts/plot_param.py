@@ -1,3 +1,9 @@
+'''
+Description: plotting parameters used
+Last updated: 2024 Feb, mtse
+
+'''
+
 # import packages
 import matplotlib.pyplot as plt
 from cycler import cycler

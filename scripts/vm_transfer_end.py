@@ -1,3 +1,9 @@
+'''
+Description: Make folders and transfer data from VM to bucket
+Last updated: 2024 Feb, mtse
+
+'''
+
 import os
 import shutil
 

@@ -1,6 +1,6 @@
 '''
 Script: pre_post.py
-Last update: 2021 March, mzhu
+Last update: 2024 Feb, mtse
 
 Description: mapping pre- and post- merge images
 Input:

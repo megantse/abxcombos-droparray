@@ -1,3 +1,16 @@
+'''
+Script: nd2_export.py
+Last update: 2024 Feb, mtse
+
+Description: Exports nd2 files to tif images for processing
+Input:
+    1. data/raw/{DAY}/{chip}_* # directory to nd2 file for export
+Output:
+    1. data/raw/{DAY}/{chip}/nd2_metadata.pkl # nd2 metadata information
+    2. data/raw/{DAY}/{DAY}/{DAY}_{chip}_*_X_Y.tif # export the nd2 file to tif images in directory with array positions
+    '''
+
+
 from pims import ND2_Reader
 from nd2reader import ND2Reader
 import skimage.io as io

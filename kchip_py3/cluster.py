@@ -1,3 +1,8 @@
+###
+# kChip script to cluster barcodes
+# Updated 20240207
+###
+
 # Basic utilities
 import numpy as np
 import copy

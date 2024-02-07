@@ -1,6 +1,6 @@
 '''
 Script: abx_abx.py
-Last update: 2021 March, mzhu
+Last update: 2024 Feb, mtse
 
 Description:
     1. abx-abx bliss score and se

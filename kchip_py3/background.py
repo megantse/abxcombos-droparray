@@ -1,4 +1,10 @@
-# BACKGROUND IMAGE AVERAGING CELL
+###
+# kChip script to average background images
+# Updated 20240207
+###
+
+
+# # BACKGROUND IMAGE AVERAGING CELL
 # Import packages
 import numpy as np
 from skimage import io

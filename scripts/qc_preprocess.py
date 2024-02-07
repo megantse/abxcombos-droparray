@@ -1,6 +1,6 @@
 '''
 Script: qc_preprocess.py
-Last update: 2021 March, mzhu
+Last update: 2024 Feb, mtse
 
 Description: QC PREPROCESS
     1. derep left / right Labels

@@ -1,3 +1,8 @@
+###
+# kChip script to calculate coordinates and determine positions as the same across timepoint
+# Updated 20240207
+###
+
 import numpy as np
 import pandas as pd
 

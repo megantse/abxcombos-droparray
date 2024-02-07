@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 '''
 Script: setup.py
-Last update: 2022 January, snitz
+Last update: 2024 Feb, mtse
 
 Description: SETUP CONFIG
     1. calc rescale vector for config

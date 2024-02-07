@@ -1,5 +1,8 @@
-### This library is code for matching the well mask to droplets images in order to
-### identify droplets that are in the same well.
+###
+# kChip script to detect droplets, map to well mask, and associate droplets into the same wells
+# Updated 20240207
+###
+
 
 import numpy as np
 from scipy.ndimage.filters import convolve

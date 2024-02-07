@@ -1,6 +1,6 @@
 '''
 Script: abx_cp.py
-Last update: 2021 March, mzhu
+Last update: 2024 Feb, mtse
 
 Description:
     1. abx-cp bliss score and se

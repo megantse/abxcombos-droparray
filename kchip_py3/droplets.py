@@ -1,3 +1,8 @@
+###
+# kChip script to detect droplets and readouts 
+# Updated 20240207
+###
+
 from skimage.filters import sobel
 from skimage.transform import hough_circle, hough_circle_peaks
 from scipy.ndimage.filters import convolve

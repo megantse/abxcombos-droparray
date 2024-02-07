@@ -1,6 +1,6 @@
 '''
 Script: normalize.py
-Last update: 2021 March, mzhu
+Last update: 2024 Feb, mtse
 
 Description: NORMALIZE t0_norm2 to 1X or 2X BUGS
 Input:
